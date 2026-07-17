@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">BigRaaabit social preview</title>
+  <desc id="description">Black and gold BigRaaabit personal archive cover for game stories, creative direction, and small games.</desc>
+  <defs>
+    <linearGradient id="background" x1="80" y1="40" x2="1120" y2="590" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#15120c" />
+      <stop offset="0.48" stop-color="#090a0c" />
+      <stop offset="1" stop-color="#050607" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(912 286) rotate(90) scale(330 360)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#e4ad48" stop-opacity="0.2" />
+      <stop offset="0.56" stop-color="#9c6822" stop-opacity="0.07" />
+      <stop offset="1" stop-color="#08090b" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="gold" x1="100" y1="100" x2="730" y2="530" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f4d68a" />
+      <stop offset="0.45" stop-color="#e4ad48" />
+      <stop offset="1" stop-color="#8b6227" />
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#e4ad48" stroke-opacity="0.055" />
+    </pattern>
+    <filter id="logoGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="14" result="blur" />
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.89 0 0.62 0 0 0.46 0 0 0.22 0 0.08 0 0 0 0.72 0" />
+      <feMerge><feMergeNode /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <clipPath id="logoCrop"><rect x="780" y="58" width="350" height="514" rx="3" /></clipPath>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#background)" />
+  <rect width="1200" height="630" fill="url(#grid)" />
+  <rect width="1200" height="630" fill="url(#glow)" />
+  <path d="M43 95V43H95M1105 43H1157V95M1157 535V587H1105M95 587H43V535" fill="none" stroke="#e4ad48" stroke-width="2" stroke-opacity="0.65" />
+  <rect x="58" y="58" width="1084" height="514" fill="none" stroke="#e4ad48" stroke-opacity="0.13" />
+
+  <g fill="#a9813e" font-family="IBM Plex Mono, Consolas, monospace" font-size="14" letter-spacing="3">
+    <text x="86" y="102">PLAYER ARCHIVE // BR-001</text>
+    <text x="1112" y="102" text-anchor="end">ACCESS: PUBLIC</text>
+  </g>
+
+  <text x="82" y="271" fill="url(#gold)" font-family="Arial Black, Arial, sans-serif" font-size="88" font-weight="900" letter-spacing="-5">BIGRAAABIT</text>
+  <rect x="86" y="298" width="84" height="3" fill="#e4ad48" />
+  <text x="86" y="349" fill="#d8d0be" font-family="Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="0.4">Game Stories / Creative Direction / Small Games</text>
+  <text x="86" y="401" fill="#8f8879" font-family="IBM Plex Mono, Consolas, monospace" font-size="17" letter-spacing="2.3">BigRaaabit Personal Archive</text>
+
+  <g clip-path="url(#logoCrop)" filter="url(#logoGlow)">
+    <image x="755" y="22" width="405" height="558" preserveAspectRatio="xMidYMid meet" href="bigrabbit-logo-blackgold.png" xlink:href="bigrabbit-logo-blackgold.png" />
+  </g>
+  <rect x="780" y="58" width="350" height="514" fill="none" stroke="#e4ad48" stroke-opacity="0.18" />
+  <path d="M746 80V550" stroke="#e4ad48" stroke-opacity="0.12" stroke-dasharray="3 9" />
+
+  <g font-family="IBM Plex Mono, Consolas, monospace" font-size="13" letter-spacing="1.6">
+    <text x="86" y="535" fill="#706958">GAME CULTURE · CREATIVE DIRECTION · PERSONAL FILES</text>
+    <text x="1112" y="535" fill="#b48a43" text-anchor="end">bitraaabbit.github.io/TheRaaabit/</text>
+  </g>
+  <circle cx="87" cy="566" r="3" fill="#e4ad48" />
+  <text x="102" y="571" fill="#615b50" font-family="IBM Plex Mono, Consolas, monospace" font-size="11" letter-spacing="2">SIGNAL ONLINE // EST. 2025</text>
+</svg>

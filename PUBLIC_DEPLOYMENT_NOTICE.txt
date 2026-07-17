@@ -1,0 +1,5 @@
+This branch contains automatically generated public deployment artifacts.
+The complete source code is not published in this branch.
+© 2026 BigRaaabit. All rights reserved.
+Copying, redistribution, or commercial use without permission is prohibited.
+Third-party components remain subject to their respective licenses.
