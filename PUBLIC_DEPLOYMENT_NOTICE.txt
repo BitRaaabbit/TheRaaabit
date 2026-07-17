@@ -1,5 +1,7 @@
-This branch contains automatically generated public deployment artifacts.
-The complete source code is not published in this branch.
+This branch contains only automatically generated production deployment files.
+The complete source code is maintained in a non-public source repository.
+Public deployment does not grant an open-source license.
 © 2026 BigRaaabit. All rights reserved.
-Copying, redistribution, or commercial use without permission is prohibited.
+Unauthorized copying, redistribution, or commercial use of BigRaaabit's original content and implementation is prohibited.
 Third-party components remain subject to their respective licenses.
+Ordinary visitors may browse the website and use the features publicly offered by it.
