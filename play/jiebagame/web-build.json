@@ -1,0 +1,10 @@
+{
+  "loaderUrl": "Build/WebGL3.loader.js",
+  "dataUrl": "Build/WebGL3.data.unityweb",
+  "frameworkUrl": "Build/WebGL3.framework.js.unityweb",
+  "codeUrl": "Build/WebGL3.wasm.unityweb",
+  "scope": "ExperimentalPublicPlaytest",
+  "sourceRevision": "12fc6552ddf7a437ad4f3b16db5950e095d8b12d + SelectedArt Release3 inputs",
+  "originalBuildScope": "LocalPreviewOnly",
+  "publicationAuthorization": "Owner instruction 2026-10-29; third-party rights not reclassified"
+}

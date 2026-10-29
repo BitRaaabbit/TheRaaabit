@@ -1,0 +1,473 @@
+{
+  "Phase": "Visual01-local-preview",
+  "MediaDistributionPolicy": "UserAuthorized",
+  "Version": 1,
+  "Sources": [
+    {
+      "CharacterId": "Arjun",
+      "MediaId": "SF6_Arjun_404",
+      "SourcePath": "",
+      "SourceHash": "95a8ce0af456b4c5e94fab442078101638f9d6668c254db6a3d4fb8cc953462e",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Arjun/95a8ce0af456b4c5e94fab442078101638f9d6668c254db6a3d4fb8cc953462e.mp4",
+      "RuntimeHash": "95a8ce0af456b4c5e94fab442078101638f9d6668c254db6a3d4fb8cc953462e",
+      "MappingLevel": "RuntimePackagedExactVariant",
+      "MoveIds": [
+        "Arjun_ImposeOrder"
+      ],
+      "VariantIds": [
+        "SF6_Arjun_ImposeOrder"
+      ],
+      "SegmentIds": [],
+      "StartTime": 0.0,
+      "EndTime": 0.0,
+      "IncludedInBuild": true,
+      "GitTracked": false,
+      "Notes": "Exact variant source staged once."
+    },
+    {
+      "CharacterId": "Arjun",
+      "MediaId": "SF6_Arjun_503",
+      "SourcePath": "",
+      "SourceHash": "bf6fb9d7148e5424cd933e46846c0af2ec92c323bb88af1e71e1bd87203cddb2",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Arjun/bf6fb9d7148e5424cd933e46846c0af2ec92c323bb88af1e71e1bd87203cddb2.mp4",
+      "RuntimeHash": "bf6fb9d7148e5424cd933e46846c0af2ec92c323bb88af1e71e1bd87203cddb2",
+      "MappingLevel": "RuntimePackagedVerifiedStrengthSegment",
+      "MoveIds": [
+        "Arjun_ODCruelShoulder"
+      ],
+      "VariantIds": [
+        "SF6_Arjun_ODCruelShoulder"
+      ],
+      "SegmentIds": [
+        "ARJUN_503_OD"
+      ],
+      "StartTime": 4.4,
+      "EndTime": 9.166667,
+      "IncludedInBuild": true,
+      "GitTracked": false,
+      "Notes": "Unique family source staged once; strict segments reuse this binary."
+    },
+    {
+      "CharacterId": "Arjun",
+      "MediaId": "SF6_Arjun_505",
+      "SourcePath": "",
+      "SourceHash": "dc12c98e40c6c2fd2b4d933abc2167ed0fc876a551da20c84cc37f41b9660986",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Arjun/dc12c98e40c6c2fd2b4d933abc2167ed0fc876a551da20c84cc37f41b9660986.mp4",
+      "RuntimeHash": "dc12c98e40c6c2fd2b4d933abc2167ed0fc876a551da20c84cc37f41b9660986",
+      "MappingLevel": "RuntimePackagedVerifiedStrengthSegment",
+      "MoveIds": [
+        "Arjun_BreathingRing",
+        "Arjun_ODBreathingRing"
+      ],
+      "VariantIds": [
+        "SF6_Arjun_BreathingRing",
+        "SF6_Arjun_ODBreathingRing"
+      ],
+      "SegmentIds": [
+        "ARJUN_505_NORMAL",
+        "ARJUN_505_OD"
+      ],
+      "StartTime": 0.0,
+      "EndTime": 8.8,
+      "IncludedInBuild": true,
+      "GitTracked": false,
+      "Notes": "Unique family source staged once; strict segments reuse this binary."
+    },
+    {
+      "CharacterId": "Mai",
+      "MediaId": "501",
+      "SourcePath": "",
+      "SourceHash": "895c0b7d47c3e829234040f0820f226d9ce31693cd7bdea32be87a9e4dc0fceb",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Mai/895c0b7d47c3e829234040f0820f226d9ce31693cd7bdea32be87a9e4dc0fceb.mp4",
+      "RuntimeHash": "895c0b7d47c3e829234040f0820f226d9ce31693cd7bdea32be87a9e4dc0fceb",
+      "MappingLevel": "RuntimePackagedExactVariant",
+      "MoveIds": [
+        "Mai_Kachosen_OD"
+      ],
+      "VariantIds": [
+        "SF6_Mai_Frame_Row_039"
+      ],
+      "SegmentIds": [],
+      "StartTime": 0.0,
+      "EndTime": 0.0,
+      "IncludedInBuild": true,
+      "GitTracked": false,
+      "Notes": "Exact variant source staged once."
+    },
+    {
+      "CharacterId": "Mai",
+      "MediaId": "501",
+      "SourcePath": "",
+      "SourceHash": "690119435590238a597ecb6cd7389f530fafbbb374d990ba6bd44df07871a08f",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Mai/690119435590238a597ecb6cd7389f530fafbbb374d990ba6bd44df07871a08f.mp4",
+      "RuntimeHash": "690119435590238a597ecb6cd7389f530fafbbb374d990ba6bd44df07871a08f",
+      "MappingLevel": "RuntimePackagedExactVariant",
+      "MoveIds": [
+        "Mai_Kachosen_OD"
+      ],
+      "VariantIds": [
+        "SF6_Mai_Frame_Row_040"
+      ],
+      "SegmentIds": [],
+      "StartTime": 0.0,
+      "EndTime": 0.0,
+      "IncludedInBuild": true,
+      "GitTracked": false,
+      "Notes": "Exact variant source staged once."
+    },
+    {
+      "CharacterId": "Mai",
+      "MediaId": "503",
+      "SourcePath": "",
+      "SourceHash": "3b8e29664fdae7f0c8c757101b2c8bb3b72ea71f6d8623a802abacbb31961b97",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Mai/3b8e29664fdae7f0c8c757101b2c8bb3b72ea71f6d8623a802abacbb31961b97.mp4",
+      "RuntimeHash": "3b8e29664fdae7f0c8c757101b2c8bb3b72ea71f6d8623a802abacbb31961b97",
+      "MappingLevel": "RuntimePackagedExactVariant",
+      "MoveIds": [
+        "Mai_Ryuenbu_OD"
+      ],
+      "VariantIds": [
+        "SF6_Mai_Frame_Row_059"
+      ],
+      "SegmentIds": [],
+      "StartTime": 0.0,
+      "EndTime": 0.0,
+      "IncludedInBuild": true,
+      "GitTracked": false,
+      "Notes": "Exact variant source staged once."
+    },
+    {
+      "CharacterId": "Mai",
+      "MediaId": "504",
+      "SourcePath": "",
+      "SourceHash": "b96bf3057522ca16b437ce509f94127ba852f29003d028a71b1b5a3f0e09a2ff",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Mai/b96bf3057522ca16b437ce509f94127ba852f29003d028a71b1b5a3f0e09a2ff.mp4",
+      "RuntimeHash": "b96bf3057522ca16b437ce509f94127ba852f29003d028a71b1b5a3f0e09a2ff",
+      "MappingLevel": "RuntimePackagedExactVariant",
+      "MoveIds": [
+        "Mai_HissatsuShinobiBachi_OD"
+      ],
+      "VariantIds": [
+        "SF6_Mai_Frame_Row_067"
+      ],
+      "SegmentIds": [],
+      "StartTime": 0.0,
+      "EndTime": 0.0,
+      "IncludedInBuild": true,
+      "GitTracked": false,
+      "Notes": "Exact variant source staged once."
+    },
+    {
+      "CharacterId": "Yasmin",
+      "MediaId": "404",
+      "SourcePath": "",
+      "SourceHash": "cdbf3251bf197790ed012d9bb00b0961a61595123ba70a2ae152a0ac7744906e",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Yasmin/cdbf3251bf197790ed012d9bb00b0961a61595123ba70a2ae152a0ac7744906e.mp4",
+      "RuntimeHash": "cdbf3251bf197790ed012d9bb00b0961a61595123ba70a2ae152a0ac7744906e",
+      "MappingLevel": "RuntimePackagedExactVariant",
+      "MoveIds": [
+        "Yasmin_KidlatNaHiwa"
+      ],
+      "VariantIds": [
+        "SF6_Yasmin_Frame_Row_022"
+      ],
+      "SegmentIds": [],
+      "StartTime": 0.0,
+      "EndTime": 0.0,
+      "IncludedInBuild": true,
+      "GitTracked": false,
+      "Notes": "Exact variant source staged once."
+    },
+    {
+      "CharacterId": "Yasmin",
+      "MediaId": "503",
+      "SourcePath": "",
+      "SourceHash": "b7e9726599952285e81b4fde9271133c16d619590c4d2b7afbf445d924d24861",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Yasmin/b7e9726599952285e81b4fde9271133c16d619590c4d2b7afbf445d924d24861.mp4",
+      "RuntimeHash": "b7e9726599952285e81b4fde9271133c16d619590c4d2b7afbf445d924d24861",
+      "MappingLevel": "RuntimePackagedVerifiedStrengthSegment",
+      "MoveIds": [
+        "Yasmin_TalimNgHangin_HP",
+        "Yasmin_TalimNgHangin_LP",
+        "Yasmin_TalimNgHangin_MP",
+        "Yasmin_TalimNgHangin_OD"
+      ],
+      "VariantIds": [
+        "SF6_Yasmin_Frame_Row_045",
+        "SF6_Yasmin_Frame_Row_046",
+        "SF6_Yasmin_Frame_Row_047",
+        "SF6_Yasmin_Frame_Row_048"
+      ],
+      "SegmentIds": [
+        "YASMIN_503_H",
+        "YASMIN_503_L",
+        "YASMIN_503_M",
+        "YASMIN_503_OD"
+      ],
+      "StartTime": 0.0,
+      "EndTime": 14.666667,
+      "IncludedInBuild": true,
+      "GitTracked": false,
+      "Notes": "Unique family source staged once; strict segments reuse this binary."
+    }
+  ],
+  "Mappings": [
+    {
+      "PreviewWidth": 400,
+      "PreviewHeight": 224,
+      "CharacterId": "Arjun",
+      "ProjectMoveId": "Arjun_BreathingRing",
+      "OfficialMoveId": "SF6_Arjun_505",
+      "OfficialVariantId": "SF6_Arjun_BreathingRing",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Arjun/dc12c98e40c6c2fd2b4d933abc2167ed0fc876a551da20c84cc37f41b9660986.mp4",
+      "SourceHash": "dc12c98e40c6c2fd2b4d933abc2167ed0fc876a551da20c84cc37f41b9660986",
+      "MappingLevel": "RuntimePackagedVerifiedStrengthSegment",
+      "Strength": "ExactVariantOnly",
+      "RequiresHoldContext": false,
+      "HasPlaybackRange": true,
+      "StartTime": 0.0,
+      "EndTime": 3.9,
+      "SegmentId": "ARJUN_505_NORMAL",
+      "BoundaryEvidence": "Official movelist and current frame/command row identify the unique normal action; complete unpowered demonstration before the alternate/OD demonstration. | Manually reviewed chronological and 10fps boundary samples. Range [0, 3.9) includes idle lead-in, complete action and recovery. Black reset measured at 4.0-4.1s.",
+      "Confidence": "StrongVerified"
+    },
+    {
+      "PreviewWidth": 400,
+      "PreviewHeight": 224,
+      "CharacterId": "Arjun",
+      "ProjectMoveId": "Arjun_ImposeOrder",
+      "OfficialMoveId": "SF6_Arjun_404",
+      "OfficialVariantId": "SF6_Arjun_ImposeOrder",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Arjun/95a8ce0af456b4c5e94fab442078101638f9d6668c254db6a3d4fb8cc953462e.mp4",
+      "SourceHash": "95a8ce0af456b4c5e94fab442078101638f9d6668c254db6a3d4fb8cc953462e",
+      "MappingLevel": "RuntimePackagedExactVariant",
+      "Strength": "ExactVariantOnly",
+      "RequiresHoldContext": false,
+      "HasPlaybackRange": false,
+      "StartTime": 0.0,
+      "EndTime": 0.0,
+      "SegmentId": "",
+      "BoundaryEvidence": "Official movelist family label and single official frame variant matched. 23 chronological samples visually reviewed 2026-10-18. One complete Impose Order target sequence, including required initial standing medium kick.",
+      "Confidence": "Exact"
+    },
+    {
+      "PreviewWidth": 400,
+      "PreviewHeight": 224,
+      "CharacterId": "Arjun",
+      "ProjectMoveId": "Arjun_ODBreathingRing",
+      "OfficialMoveId": "SF6_Arjun_505",
+      "OfficialVariantId": "SF6_Arjun_ODBreathingRing",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Arjun/dc12c98e40c6c2fd2b4d933abc2167ed0fc876a551da20c84cc37f41b9660986.mp4",
+      "SourceHash": "dc12c98e40c6c2fd2b4d933abc2167ed0fc876a551da20c84cc37f41b9660986",
+      "MappingLevel": "RuntimePackagedVerifiedStrengthSegment",
+      "Strength": "ExactVariantOnly",
+      "RequiresHoldContext": false,
+      "HasPlaybackRange": true,
+      "StartTime": 4.2,
+      "EndTime": 8.8,
+      "SegmentId": "ARJUN_505_OD",
+      "BoundaryEvidence": "Official movelist attaches this movie to Breathing Ring. Current official frame/command rows distinguish normal and OD; the OD activation flash and complete action match the unique OD row, not an inferred L/M/H order. | Manually reviewed chronological and 10fps boundary samples. Range [4.2, 8.8) includes idle lead-in, complete action and recovery. Black reset measured at 4.0-4.1s.",
+      "Confidence": "StrongVerified"
+    },
+    {
+      "PreviewWidth": 400,
+      "PreviewHeight": 224,
+      "CharacterId": "Arjun",
+      "ProjectMoveId": "Arjun_ODCruelShoulder",
+      "OfficialMoveId": "SF6_Arjun_503",
+      "OfficialVariantId": "SF6_Arjun_ODCruelShoulder",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Arjun/bf6fb9d7148e5424cd933e46846c0af2ec92c323bb88af1e71e1bd87203cddb2.mp4",
+      "SourceHash": "bf6fb9d7148e5424cd933e46846c0af2ec92c323bb88af1e71e1bd87203cddb2",
+      "MappingLevel": "RuntimePackagedVerifiedStrengthSegment",
+      "Strength": "ExactVariantOnly",
+      "RequiresHoldContext": false,
+      "HasPlaybackRange": true,
+      "StartTime": 4.4,
+      "EndTime": 9.166667,
+      "SegmentId": "ARJUN_503_OD",
+      "BoundaryEvidence": "Official movelist attaches this movie to Cruel Shoulder. Current official frame/command rows distinguish normal and OD; the OD activation flash and complete action match the unique OD row, not an inferred L/M/H order. | Manually reviewed chronological and 10fps boundary samples. Range [4.4, 9.166667) includes idle lead-in, complete action and recovery. Black reset measured at 4.2-4.3s.",
+      "Confidence": "StrongVerified"
+    },
+    {
+      "PreviewWidth": 400,
+      "PreviewHeight": 224,
+      "CharacterId": "Mai",
+      "ProjectMoveId": "Mai_HissatsuShinobiBachi_OD",
+      "OfficialMoveId": "504",
+      "OfficialVariantId": "SF6_Mai_Frame_Row_067",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Mai/b96bf3057522ca16b437ce509f94127ba852f29003d028a71b1b5a3f0e09a2ff.mp4",
+      "SourceHash": "b96bf3057522ca16b437ce509f94127ba852f29003d028a71b1b5a3f0e09a2ff",
+      "MappingLevel": "RuntimePackagedExactVariant",
+      "Strength": "OD",
+      "RequiresHoldContext": false,
+      "HasPlaybackRange": false,
+      "StartTime": 0.0,
+      "EndTime": 0.0,
+      "SegmentId": "",
+      "BoundaryEvidence": "Official frame row plus visually distinct segment in audited official family MP4.",
+      "Confidence": "Exact"
+    },
+    {
+      "PreviewWidth": 400,
+      "PreviewHeight": 224,
+      "CharacterId": "Mai",
+      "ProjectMoveId": "Mai_Kachosen_OD",
+      "OfficialMoveId": "501",
+      "OfficialVariantId": "SF6_Mai_Frame_Row_039",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Mai/895c0b7d47c3e829234040f0820f226d9ce31693cd7bdea32be87a9e4dc0fceb.mp4",
+      "SourceHash": "895c0b7d47c3e829234040f0820f226d9ce31693cd7bdea32be87a9e4dc0fceb",
+      "MappingLevel": "RuntimePackagedExactVariant",
+      "Strength": "OD",
+      "RequiresHoldContext": false,
+      "HasPlaybackRange": false,
+      "StartTime": 0.0,
+      "EndTime": 0.0,
+      "SegmentId": "",
+      "BoundaryEvidence": "Official frame row plus visually distinct segment in audited official family MP4.",
+      "Confidence": "Exact"
+    },
+    {
+      "PreviewWidth": 400,
+      "PreviewHeight": 224,
+      "CharacterId": "Mai",
+      "ProjectMoveId": "Mai_Kachosen_OD",
+      "OfficialMoveId": "501",
+      "OfficialVariantId": "SF6_Mai_Frame_Row_040",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Mai/690119435590238a597ecb6cd7389f530fafbbb374d990ba6bd44df07871a08f.mp4",
+      "SourceHash": "690119435590238a597ecb6cd7389f530fafbbb374d990ba6bd44df07871a08f",
+      "MappingLevel": "RuntimePackagedExactVariant",
+      "Strength": "OD",
+      "RequiresHoldContext": true,
+      "HasPlaybackRange": false,
+      "StartTime": 0.0,
+      "EndTime": 0.0,
+      "SegmentId": "",
+      "BoundaryEvidence": "Current Combo step explicitly RequiresHoldInput; audited 501 final segment is the held OD state.",
+      "Confidence": "Exact"
+    },
+    {
+      "PreviewWidth": 400,
+      "PreviewHeight": 224,
+      "CharacterId": "Mai",
+      "ProjectMoveId": "Mai_Ryuenbu_OD",
+      "OfficialMoveId": "503",
+      "OfficialVariantId": "SF6_Mai_Frame_Row_059",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Mai/3b8e29664fdae7f0c8c757101b2c8bb3b72ea71f6d8623a802abacbb31961b97.mp4",
+      "SourceHash": "3b8e29664fdae7f0c8c757101b2c8bb3b72ea71f6d8623a802abacbb31961b97",
+      "MappingLevel": "RuntimePackagedExactVariant",
+      "Strength": "OD",
+      "RequiresHoldContext": false,
+      "HasPlaybackRange": false,
+      "StartTime": 0.0,
+      "EndTime": 0.0,
+      "SegmentId": "",
+      "BoundaryEvidence": "Official frame row plus visually distinct segment in audited official family MP4.",
+      "Confidence": "Exact"
+    },
+    {
+      "PreviewWidth": 0,
+      "PreviewHeight": 0,
+      "CharacterId": "Yasmin",
+      "ProjectMoveId": "Yasmin_KidlatNaHiwa",
+      "OfficialMoveId": "404",
+      "OfficialVariantId": "SF6_Yasmin_Frame_Row_022",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Yasmin/cdbf3251bf197790ed012d9bb00b0961a61595123ba70a2ae152a0ac7744906e.mp4",
+      "SourceHash": "cdbf3251bf197790ed012d9bb00b0961a61595123ba70a2ae152a0ac7744906e",
+      "MappingLevel": "RuntimePackagedExactVariant",
+      "Strength": "ExactVariantOnly",
+      "RequiresHoldContext": false,
+      "HasPlaybackRange": false,
+      "StartTime": 0.0,
+      "EndTime": 0.0,
+      "SegmentId": "",
+      "BoundaryEvidence": "Official command-list media uniquely represents this project action.",
+      "Confidence": "Exact"
+    },
+    {
+      "PreviewWidth": 0,
+      "PreviewHeight": 0,
+      "CharacterId": "Yasmin",
+      "ProjectMoveId": "Yasmin_TalimNgHangin_LP",
+      "OfficialMoveId": "503",
+      "OfficialVariantId": "SF6_Yasmin_Frame_Row_045",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Yasmin/b7e9726599952285e81b4fde9271133c16d619590c4d2b7afbf445d924d24861.mp4",
+      "SourceHash": "b7e9726599952285e81b4fde9271133c16d619590c4d2b7afbf445d924d24861",
+      "MappingLevel": "RuntimePackagedVerifiedStrengthSegment",
+      "Strength": "Light",
+      "RequiresHoldContext": false,
+      "HasPlaybackRange": true,
+      "StartTime": 0.0,
+      "EndTime": 2.333333,
+      "SegmentId": "YASMIN_503_L",
+      "BoundaryEvidence": "Official movelist DOM variant ordering | Measured black-frame transition and character reset | Action progression and OD visual cue cross-check where applicable",
+      "Confidence": "StrongVerified"
+    },
+    {
+      "PreviewWidth": 0,
+      "PreviewHeight": 0,
+      "CharacterId": "Yasmin",
+      "ProjectMoveId": "Yasmin_TalimNgHangin_MP",
+      "OfficialMoveId": "503",
+      "OfficialVariantId": "SF6_Yasmin_Frame_Row_046",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Yasmin/b7e9726599952285e81b4fde9271133c16d619590c4d2b7afbf445d924d24861.mp4",
+      "SourceHash": "b7e9726599952285e81b4fde9271133c16d619590c4d2b7afbf445d924d24861",
+      "MappingLevel": "RuntimePackagedVerifiedStrengthSegment",
+      "Strength": "Medium",
+      "RequiresHoldContext": false,
+      "HasPlaybackRange": true,
+      "StartTime": 2.433333,
+      "EndTime": 6.0,
+      "SegmentId": "YASMIN_503_M",
+      "BoundaryEvidence": "Official movelist DOM variant ordering | Measured black-frame transition and character reset | Action progression and OD visual cue cross-check where applicable",
+      "Confidence": "StrongVerified"
+    },
+    {
+      "PreviewWidth": 0,
+      "PreviewHeight": 0,
+      "CharacterId": "Yasmin",
+      "ProjectMoveId": "Yasmin_TalimNgHangin_OD",
+      "OfficialMoveId": "503",
+      "OfficialVariantId": "SF6_Yasmin_Frame_Row_048",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Yasmin/b7e9726599952285e81b4fde9271133c16d619590c4d2b7afbf445d924d24861.mp4",
+      "SourceHash": "b7e9726599952285e81b4fde9271133c16d619590c4d2b7afbf445d924d24861",
+      "MappingLevel": "RuntimePackagedVerifiedStrengthSegment",
+      "Strength": "OD",
+      "RequiresHoldContext": false,
+      "HasPlaybackRange": true,
+      "StartTime": 10.233333,
+      "EndTime": 14.666667,
+      "SegmentId": "YASMIN_503_OD",
+      "BoundaryEvidence": "Official movelist DOM variant ordering | Measured black-frame transition and character reset | Action progression and OD visual cue cross-check where applicable",
+      "Confidence": "StrongVerified"
+    }
+  ],
+  "Portraits": [
+    {
+      "CharacterId": "Arjun",
+      "SourcePath": "",
+      "SourceHash": "9035c78bbf293bc34523b8948d8a901da898d3584ffe06cc8125255606953ccf",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Portraits/9035c78bbf293bc34523b8948d8a901da898d3584ffe06cc8125255606953ccf.jpg",
+      "SourceUrl": "https://www.capcom-germany.de/assets/images/b/sns-5ab44722.jpg",
+      "Author": "CAPCOM",
+      "SourceType": "OfficialPublisherNewsArt"
+    },
+    {
+      "CharacterId": "Mai",
+      "SourcePath": "",
+      "SourceHash": "3e52e6eba32346e6ccce23e02f3a5c15c7bf8f80f3ab599c95038f9872535018",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Portraits/3e52e6eba32346e6ccce23e02f3a5c15c7bf8f80f3ab599c95038f9872535018.png",
+      "SourceUrl": "https://www.inside-games.jp/article/2026/01/13/176054.html",
+      "Author": "未确认",
+      "SourceType": "ArtContestFinalist"
+    },
+    {
+      "CharacterId": "Yasmin",
+      "SourcePath": "",
+      "SourceHash": "dfbc94d1205f80072cea5cd8f6e4aef5f6d84a882d10348fe3ea44aed1a5fa34",
+      "RuntimeRelativePath": "RuntimeMedia/Build_5ec9d4c0ed344208b79fcc0547051bc2/Portraits/dfbc94d1205f80072cea5cd8f6e4aef5f6d84a882d10348fe3ea44aed1a5fa34.png",
+      "SourceUrl": "https://www.streetfighter.com/6/assets/images/character/yasmine/yasmine.png",
+      "Author": "CAPCOM",
+      "SourceType": "OfficialCharacterArt"
+    }
+  ]
+}

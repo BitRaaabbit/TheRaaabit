@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>街霸训练器 · 网页试玩</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="./player.css">
+</head>
+<body>
+  <header><a href="../../">← 返回个站</a><span>电脑版浏览器 · 键盘试玩</span></header>
+  <main>
+    <h1>街霸训练器 <span>实验性网页试玩 / Playtest</span></h1>
+    <p class="scope">不知火舞 4 题 · 亚思敏 3 题 · 阿俊 3 题，每人一条现有路线。演示与输入判定独立。</p>
+    <div class="toolbar">
+      <button id="start">开始载入</button>
+      <button id="focus" disabled>聚焦游戏</button>
+      <button id="fullscreen" disabled>全屏</button>
+      <button id="exit" disabled>退出试玩</button>
+    </div>
+    <p id="status" role="status" aria-live="polite">点击开始后载入。离开游戏区域会暂停训练，回来后请在游戏菜单选择“继续练习”。</p>
+    <progress id="progress" max="1" value="0" hidden aria-label="载入进度"></progress>
+    <div id="stage"><canvas id="game" width="1600" height="900" tabindex="0" aria-label="街霸训练器；点击聚焦，Tab 返回网页"></canvas></div>
+    <p class="help">方向 A / S / D，W 或空格跳跃；U / I / O 轻中重拳，J / K / L 轻中重脚。Esc 打开训练菜单，Tab 离开游戏。OD 使用同时按下两个对应攻击键。</p>
+    <p class="help">轻必杀忍蜂与路线部分步骤暂无精确演示。网页 Hitbox、手机和主观体验未验收。训练记录仅保存在本浏览器，清除网站数据会丢失。减少动态效果可在选人页设置，也遵循浏览器偏好。</p>
+    <p class="help">《Street Fighter 6》及角色素材权利归各权利人。<a href="./sources.html">演示来源与使用范围</a></p>
+  </main>
+  <script type="module" src="./player.js"></script>
+</body>
+</html>
